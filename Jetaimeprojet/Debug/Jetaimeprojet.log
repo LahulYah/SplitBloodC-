@@ -1,2 +1,12 @@
 ﻿  Jetaimeprojet.cpp
-  Jetaimeprojet.vcxproj -> D:\Game 2 int\C-N-L\Jetaimeprojet\Debug\Jetaimeprojet.exe
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(13,29): error C2601: 'Damage' : définitions de fonctions locales non conformes
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(7): message : cette ligne comporte un '{' qui n'est pas équilibré
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(17,40): error C2601: 'DamageRefefrence' : définitions de fonctions locales non conformes
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(7): message : cette ligne comporte un '{' qui n'est pas équilibré
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(21,41): error C2601: 'DamagePointedObject' : définitions de fonctions locales non conformes
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(7): message : cette ligne comporte un '{' qui n'est pas équilibré
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(25,9): error C2601: 'main' : définitions de fonctions locales non conformes
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(7): message : cette ligne comporte un '{' qui n'est pas équilibré
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(27,9): error C2065: 'cout' : identificateur non déclaré
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(29,9): error C2065: 'cout' : identificateur non déclaré
+D:\Game 2 int\C-N-L\Jetaimeprojet\Jetaimeprojet\Jetaimeprojet.cpp(29,85): error C2065: 'endl' : identificateur non déclaré
